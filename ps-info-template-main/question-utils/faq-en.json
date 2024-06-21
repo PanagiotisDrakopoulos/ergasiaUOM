@@ -1,0 +1,21 @@
+[
+    {
+        "id": 0,
+        "question": "When can I apply for the housing allowance?",
+        "answer": "Applications for the housing allowance for each academic year must be submitted within the deadline, from June 1st to June 30th of each year."
+    },
+    {
+        "id": 1,
+        "question": "If my application is rejected, what can I do?",
+        "answer": "In case of rejection, the applicant may file an appeal within one (1) month from the notification of the rejection result, exclusively with the institution's services. The competent services of the institution may request any additional documentation they deem necessary for the examination of the appeal. If the appeal is not accepted, then the application is definitively rejected."
+    },
+    {
+        "id": 2,
+        "question": "How do I register for the service to submit an online application for the housing allowance?",
+        "answer": "To access the online application, the eligible person (parent or student) will use the username and password provided by the Independent Authority for Public Revenue (AADE) for the TAXISnet electronic services. The entry of these credentials constitutes a declaration of consent for the verification of their information."
+    },
+    {"id": 3,
+        "question": "I already hold a university degree and am studying for a second degree. Am I eligible for the housing allowance?",
+        "answer": "According to the current legal framework, those who are studying for a second degree are not eligible for the housing allowance, regardless of how they were admitted to higher education."
+    }
+]
